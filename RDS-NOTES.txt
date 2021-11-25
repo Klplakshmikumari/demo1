@@ -1,0 +1,47 @@
+RDS->Relational data base
+----------------------------
+How do you launch database on cloud
+
+Sql:
+
+Oracle:
+
+default port no :
+
+defalut username/password:scott/tiger/system/manager
+
+Database: Global database
+
+mysql---
+
+default port no :3306
+
+default username/password :root/root
+
+Database : Local Database
+
+table : rows and coloumes
+
+coloumn : data type and size
+--------------------------------
+1) CRUID operation
+
+create database mydb;
+
+show database;
+
+use mysql;
+
+show tables;
+
+create table emp(eid int primary key,ename varchar(25),address(50));
+
+insert into emp values(1,"J
+
+
+
+
+
+
+
+
